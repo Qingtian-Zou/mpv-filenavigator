@@ -1,3 +1,7 @@
+Forked from [Mpv-Playlistmanager](https://github.com/jonniek/mpv-playlistmanager). Add page up/down.
+
+--------------------------------
+
 # Mpv Filenavigator  
 File navigator for mpv media player. Should work on linux, macos and windows. Relies on default unix commands cd, pwd, sort, test and ls. Edit the settings variable in the lua file to change defaults and to add favorite paths.
 
